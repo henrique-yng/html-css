@@ -1,0 +1,28 @@
+body{
+    width: 70%;
+    margin: auto;
+    background-image: url(paraiso-de-praia-tropical-com-palmeiras-e-agua-azul-turquesa_23-2151975534.avif);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right bottom ;
+    
+}
+    p{
+        line-height: 1.5;
+    }
+    .globo{
+        float: left;
+        margin-right: 30px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }   
+    h1{
+        background-color: aliceblue;
+        padding: 20px 0px 20px 20px;
+    }
+    h2{
+        background-color: aliceblue;
+        padding: 20px 0px 20px 20px;
+    }
+    

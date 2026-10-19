@@ -1,0 +1,26 @@
+
+
+body{
+    background-color: aquamarine;
+}
+a{
+    color: blueviolet;
+}
+a:hover{
+    color: red;
+    background-color: yellow;
+}
+a:visited{
+    color: black;
+}
+a:active{
+    color: orange;
+}
+ul li{
+    list-style-type: circle;
+    color: blue;
+}
+ol li{
+color: brown;
+list-style-type: georgian;
+}

@@ -1,0 +1,40 @@
+body{
+    width: 90%;
+    margin: auto;
+    font-family: sans-serif;
+    background-color: rgb(252, 254, 207);
+}
+h1{
+    background-color: rgb(255, 189, 189);
+    height: 50px;
+    padding-top: 12px;
+    padding-left: 20px;
+    color: red;
+    border-bottom-style: solid;
+    border-color: rgb(200, 0, 255);
+    margin-bottom: 40px;
+    
+}
+p{
+    margin-bottom: 30px;
+
+}
+#maintitulo{
+    text-align: center;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+
+}
+a:hover{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+}
+
+a:active{
+    color: yellow;
+}
+hr{
+    margin-bottom: 30px;
+}
