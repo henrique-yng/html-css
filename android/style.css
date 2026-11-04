@@ -86,15 +86,15 @@ img{
 
 div.video{
     width: 100%;
-    margin: 0px -20px 0px -20px
-    
-    position: relative;
-    padding-bottom: 59%;
+    margin: 20px auto;
 }
 
 div.video > iframe{
-    position: absolute;
-
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    border: 0;
 }
 
 aside{
