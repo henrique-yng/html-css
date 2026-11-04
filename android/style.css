@@ -105,7 +105,7 @@ aside{
 }
 
 aside ul{
-    list-style-type: '\2714';
+    list-style: circle;
     list-style-position: inside;
     padding-left: 0%;
     columns: 2;
