@@ -1,0 +1,27 @@
+div.quadrado{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 7px;
+    background-color: aliceblue;
+}
+
+div#q1{
+background-color: red;
+
+}
+
+div#q2{
+background-image: linear-gradient(to bottom, orange, yellow);
+
+}
+
+div#q3{
+background-image: url(imagens/pattern003.png);
+
+}
+
+body{
+    background-image: url(imagens/wallpaper001.jpg);
+}
